@@ -1,0 +1,19 @@
+# TikTok vom 18.10.2026 – „Das ist kein Video.“
+
+- `tiktok_final.mp4` – fertiges Video mit Musik (24,5 s, 1080×1920, 30 fps)
+- `tiktok_ohne_musik.mp4` – gleiches Video ohne Ton, falls du in TikTok einen Trend-Sound drunterlegen willst
+- `schnitt/` – Skripte, mit denen das Video aus dem Rohmaterial (Release `rohmaterial`) gebaut wurde
+
+## Aufbau
+
+| Zeit | Inhalt | Text |
+|---|---|---|
+| 0–3 s | Hook: GRAVITAS (Schwarzes Loch), FALZ (Papierstrudel) | „Das ist kein Video.“ / „Das ist eine Website.“ |
+| 3–4,5 s | Selfie, Hand vor die Linse | „Ich hab sie gebaut.“ |
+| 4,5–9 s | Laptop auf, Inspiration, Tippen | „Ideen sammeln.“ / „Code schreiben.“ / „Stunden später …“ |
+| 9–21 s | 12 Websites im Beat, nummeriert 01–12 | 01 … 12 |
+| 21–24,5 s | Blick in die Kamera | „Welche Nummer ist deine?“ / „Folg mir für Teil 2.“ |
+
+## Caption-Vorschlag
+
+> Jede davon ist eine echte Website. Welche Nummer ist deine? 👇 #webdesign #webdev #creativecoding #threejs #fyp

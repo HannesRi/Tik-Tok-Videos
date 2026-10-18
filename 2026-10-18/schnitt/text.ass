@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,Inter Display ExtraBold,108,&H00FFFFFF,&H00FFFFFF,&H70000000,&H00000000,0,0,0,0,100,100,-1.5,0,1,7,0,5,40,40,0,1
+Style: Num,Inter Display Black,200,&H00FFFFFF,&H00FFFFFF,&H80000000,&H00000000,0,0,0,0,100,100,-4,0,1,8,0,5,40,40,0,1
+Style: Small,Inter Display Bold,74,&H00FFFFFF,&H00FFFFFF,&H70000000,&H00000000,0,0,0,0,100,100,-0.5,0,1,6,0,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.50,Hook,,0,0,0,,{\an5\pos(540,340)\fad(0,60)\blur12\1a&HFF&}Das ist kein Video.
+Dialogue: 1,0:00:00.00,0:00:01.50,Hook,,0,0,0,,{\an5\pos(540,340)\fad(0,60)\bord0}Das ist kein Video.
+Dialogue: 0,0:00:01.50,0:00:03.00,Hook,,0,0,0,,{\an5\pos(540,340)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Das ist eine Website.
+Dialogue: 1,0:00:01.50,0:00:03.00,Hook,,0,0,0,,{\an5\pos(540,340)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Das ist eine Website.
+Dialogue: 0,0:00:03.00,0:00:04.35,Hook,,0,0,0,,{\an5\pos(540,1330)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Ich hab sie gebaut.
+Dialogue: 1,0:00:03.00,0:00:04.35,Hook,,0,0,0,,{\an5\pos(540,1330)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Ich hab sie gebaut.
+Dialogue: 0,0:00:05.50,0:00:06.50,Hook,,0,0,0,,{\an5\pos(540,1380)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Ideen sammeln.
+Dialogue: 1,0:00:05.50,0:00:06.50,Hook,,0,0,0,,{\an5\pos(540,1380)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Ideen sammeln.
+Dialogue: 0,0:00:06.50,0:00:08.00,Hook,,0,0,0,,{\an5\pos(540,1380)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Code schreiben.
+Dialogue: 1,0:00:06.50,0:00:08.00,Hook,,0,0,0,,{\an5\pos(540,1380)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Code schreiben.
+Dialogue: 0,0:00:08.00,0:00:09.00,Hook,,0,0,0,,{\an5\pos(540,1380)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Stunden später …
+Dialogue: 1,0:00:08.00,0:00:09.00,Hook,,0,0,0,,{\an5\pos(540,1380)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Stunden später …
+Dialogue: 0,0:00:09.00,0:00:10.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}01
+Dialogue: 1,0:00:09.00,0:00:10.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}01
+Dialogue: 0,0:00:10.00,0:00:11.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}02
+Dialogue: 1,0:00:10.00,0:00:11.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}02
+Dialogue: 0,0:00:11.00,0:00:12.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}03
+Dialogue: 1,0:00:11.00,0:00:12.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}03
+Dialogue: 0,0:00:12.00,0:00:13.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}04
+Dialogue: 1,0:00:12.00,0:00:13.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}04
+Dialogue: 0,0:00:13.00,0:00:14.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}05
+Dialogue: 1,0:00:13.00,0:00:14.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}05
+Dialogue: 0,0:00:14.00,0:00:15.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}06
+Dialogue: 1,0:00:14.00,0:00:15.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}06
+Dialogue: 0,0:00:15.00,0:00:16.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}07
+Dialogue: 1,0:00:15.00,0:00:16.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}07
+Dialogue: 0,0:00:16.00,0:00:17.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}08
+Dialogue: 1,0:00:16.00,0:00:17.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}08
+Dialogue: 0,0:00:17.00,0:00:18.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}09
+Dialogue: 1,0:00:17.00,0:00:18.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}09
+Dialogue: 0,0:00:18.00,0:00:19.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}10
+Dialogue: 1,0:00:18.00,0:00:19.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}10
+Dialogue: 0,0:00:19.00,0:00:20.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}11
+Dialogue: 1,0:00:19.00,0:00:20.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}11
+Dialogue: 0,0:00:20.00,0:00:21.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}12
+Dialogue: 1,0:00:20.00,0:00:21.00,Num,,0,0,0,,{\an5\pos(540,360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}12
+Dialogue: 0,0:00:21.05,0:00:24.50,Hook,,0,0,0,,{\an5\pos(540,1240)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Welche Nummer\Nist deine?
+Dialogue: 1,0:00:21.05,0:00:24.50,Hook,,0,0,0,,{\an5\pos(540,1240)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Welche Nummer\Nist deine?
+Dialogue: 0,0:00:21.75,0:00:24.50,Small,,0,0,0,,{\an5\pos(540,1435)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Folg mir für Teil 2.
+Dialogue: 1,0:00:21.75,0:00:24.50,Small,,0,0,0,,{\an5\pos(540,1435)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Folg mir für Teil 2.
