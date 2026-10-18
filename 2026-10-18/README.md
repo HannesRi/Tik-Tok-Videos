@@ -32,14 +32,13 @@ Der Drop des Sounds sollte bei 0:01,8 liegen, also genau beim ersten Schnitt nac
 
 ## Serie: Teil 1 und Teil 2 (`teil1.mp4`, `teil2.mp4`)
 
-Je 13,4 s, ohne Ton, Schnitte auf 130 BPM. Gleiches Muster in beiden Teilen:
+Je 15,2 s, ohne Ton, Schnitte auf 130 BPM. Clean-Look: Laptop gerade ausgerichtet, Wand und Mac-Menüleiste schwarz maskiert, gedämpfter Farblook für die Personen-Szenen, kleine Typo ohne Effekte, harte Schnitte ohne Blitze.
 
 | Zeit | Teil 1 | Teil 2 |
 |---|---|---|
-| 0–1,8 s | GRAVITAS im Vollbild – „Das ist kein Video.“ | METROPOLIS im Vollbild – „Auch kein Video.“ |
-| 1,8–3,2 s | Zoom raus auf den Laptop – „Das ist eine Website.“ | Zoom raus – „Auch eine Website.“ |
-| 3,2–4,2 s | Selfie, zeigt auf sich – „Gebaut von mir.“ | Selfie-Geste – „Alles selbst gebaut.“ |
-| 4,2–12 s | DRUSE, CUBUS, STRAHL, FERRO, FALZ, SCHWARM, NULLZEIT, Menger-Tunnel, FRAGMENT + Szenen von dir | Laptop auf, Inspiration, Tippen, GUSS, VELUM, Neon-Tunnel, NACHBILD, ARGENT, KAUSTIK, RELIEF + Szenen von dir |
-| 12–13,4 s | Du kommst auf die Kamera zu – „Teil 2 → auf meinem Profil“ | Du kommst auf die Kamera zu – „Welche war die beste? Folg mir für mehr.“ |
+| 0–3,7 s | FALZ: Website faltet sich zum Papierflieger, Blätter fliegen (Speed-Ramp) | CUBUS: Website klappt zum 3D-Würfel und explodiert (Speed-Ramp) |
+| | „TEIL 1 – Ich baue Websites wie diese.“ | „TEIL 2 – Ich baue Websites wie diese.“ |
+| 3,7–13,8 s | Selfie, DRUSE, STRAHL, Reinlaufen, FERRO, GRAVITAS, Blick, SCHWARM, NULLZEIT, Fit-Check, Würfeltunnel | Selfie, Laptop auf, Inspiration, Tippen, GUSS, VELUM, Neon-Tunnel, Blick, NACHBILD, ARGENT, METROPOLIS, Haare |
+| 13,8–15,2 s | Auf die Kamera zu – „Teil 2 auf meinem Profil.“ | Auf die Kamera zu – „Welche war die beste? / Folg mir für mehr.“ |
 
-Der Drop des Sounds gehört bei beiden auf 0:01,8, also auf den Moment, in dem aus dem Vollbild auf den Laptop gezoomt wird.
+Der Drop des Sounds gehört bei beiden auf 0:02,3 – dann zerfällt der Flieger bzw. explodiert der Würfel.
