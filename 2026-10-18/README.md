@@ -30,15 +30,19 @@
 
 Der Drop des Sounds sollte bei 0:01,8 liegen, also genau beim ersten Schnitt nach dem Schwarzen Loch.
 
-## Serie: Teil 1 und Teil 2 (`teil1.mp4`, `teil2.mp4`)
+## Serie: Teil 1 und Teil 2
 
-Je 15,2 s, ohne Ton, Schnitte auf 130 BPM. Clean-Look: Laptop gerade ausgerichtet, Wand und Mac-Menüleiste schwarz maskiert, gedämpfter Farblook für die Personen-Szenen, kleine Typo ohne Effekte, harte Schnitte ohne Blitze.
+- `teil1_mit_sound.mp4`, `teil2_mit_sound.mp4` – fertig mit eigenem Phonk/Brega-Beat (130 BPM, lizenzfrei, selbst erzeugt mit `schnitt/synth_phonk.py`)
+- `teil1_ohne_sound.mp4`, `teil2_ohne_sound.mp4` – gleiches Bild ohne Ton, für einen Trend-Sound aus der TikTok-App
 
-| Zeit | Teil 1 | Teil 2 |
-|---|---|---|
-| 0–3,7 s | FALZ: Website faltet sich zum Papierflieger, Blätter fliegen (Speed-Ramp) | CUBUS: Website klappt zum 3D-Würfel und explodiert (Speed-Ramp) |
-| | „TEIL 1 – Ich baue Websites wie diese.“ | „TEIL 2 – Ich baue Websites wie diese.“ |
-| 3,7–13,8 s | Selfie, DRUSE, STRAHL, Reinlaufen, FERRO, GRAVITAS, Blick, SCHWARM, NULLZEIT, Fit-Check, Würfeltunnel | Selfie, Laptop auf, Inspiration, Tippen, GUSS, VELUM, Neon-Tunnel, Blick, NACHBILD, ARGENT, METROPOLIS, Haare |
-| 13,8–15,2 s | Auf die Kamera zu – „Teil 2 auf meinem Profil.“ | Auf die Kamera zu – „Welche war die beste? / Folg mir für mehr.“ |
+Je 15,2 s. Look: Websites gerade ausgerichtet auf tiefem Schwarz (Wand und Mac-Menüleiste maskiert), Personen-Szenen in Schwarz-Weiß, kleine Typo, harte Schnitte auf den Beat.
 
-Der Drop des Sounds gehört bei beiden auf 0:02,3 – dann zerfällt der Flieger bzw. explodiert der Würfel.
+| Zeit | Teil 1 | Teil 2 | Beat |
+|---|---|---|---|
+| 0–1,4 s | FALZ: Website kippt und faltet sich | CUBUS: Website klappt zum Würfel | gedämpfte Cowbell, 808 |
+| 1,4–2,3 s | Speed-Ramp: Papierflieger entsteht | Speed-Ramp: Würfel dreht sich | Snare-Wirbel, Riser, Pause |
+| 2,3–3,7 s | Blätter fliegen durchs Bild | Würfel explodiert | **Drop** |
+| 3,7–13,8 s | Selfie, DRUSE, STRAHL, Reinlaufen, FERRO, GRAVITAS, Blick, SCHWARM, NULLZEIT, Fit-Check, Würfeltunnel | Selfie, Laptop auf, Inspiration, Tippen, GUSS, VELUM, Neon-Tunnel, Blick, NACHBILD, ARGENT, METROPOLIS, Haare | Phonk-Beat, Schnitte auf jedem 2. Beat |
+| 13,8–15,2 s | Auf die Kamera zu – „Teil 2 auf meinem Profil.“ | „Welche war die beste? / Folg mir für mehr.“ | Outro-Hit, Cowbell-Echo |
+
+Trend-Sound in der App: Drop auf 0:02,3 legen.
