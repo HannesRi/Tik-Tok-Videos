@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hook,Inter Display ExtraBold,108,&H00FFFFFF,&H00FFFFFF,&H70000000,&H00000000,0,0,0,0,100,100,-1.5,0,1,7,0,5,40,40,0,1
+Style: Num,Inter Display Black,200,&H00FFFFFF,&H00FFFFFF,&H80000000,&H00000000,0,0,0,0,100,100,-4,0,1,8,0,5,40,40,0,1
+Style: Small,Inter Display Bold,74,&H00FFFFFF,&H00FFFFFF,&H70000000,&H00000000,0,0,0,0,100,100,-0.5,0,1,6,0,5,40,40,0,1
+
+Style: Label,Inter Display SemiBold,46,&H30FFFFFF,&H00FFFFFF,&H80000000,&H00000000,0,0,0,0,100,100,9,0,1,6,0,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.23,Label,,0,0,0,,{\an5\pos(540,1285)\fad(0,0)\blur12\1a&HFF&}TEIL 1
+Dialogue: 1,0:00:00.00,0:00:03.23,Label,,0,0,0,,{\an5\pos(540,1285)\fad(0,0)\bord0}TEIL 1
+Dialogue: 0,0:00:00.00,0:00:01.83,Hook,,0,0,0,,{\an5\pos(540,1400)\fad(0,0)\blur12\1a&HFF&}Das ist kein Video.
+Dialogue: 1,0:00:00.00,0:00:01.83,Hook,,0,0,0,,{\an5\pos(540,1400)\fad(0,0)\bord0}Das ist kein Video.
+Dialogue: 0,0:00:01.83,0:00:03.23,Hook,,0,0,0,,{\an5\pos(540,1400)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Das ist eine Website.
+Dialogue: 1,0:00:01.83,0:00:03.23,Hook,,0,0,0,,{\an5\pos(540,1400)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Das ist eine Website.
+Dialogue: 0,0:00:03.23,0:00:04.17,Hook,,0,0,0,,{\an5\pos(540,1400)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Gebaut von mir.
+Dialogue: 1,0:00:03.23,0:00:04.17,Hook,,0,0,0,,{\an5\pos(540,1400)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Gebaut von mir.
+Dialogue: 0,0:00:12.00,0:00:13.50,Hook,,0,0,0,,{\an5\pos(540,1360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}Teil 2 →
+Dialogue: 1,0:00:12.00,0:00:13.50,Hook,,0,0,0,,{\an5\pos(540,1360)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}Teil 2 →
+Dialogue: 0,0:00:12.25,0:00:13.50,Small,,0,0,0,,{\an5\pos(540,1480)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\blur12\1a&HFF&}auf meinem Profil
+Dialogue: 1,0:00:12.25,0:00:13.50,Small,,0,0,0,,{\an5\pos(540,1480)\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)\bord0}auf meinem Profil

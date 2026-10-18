@@ -29,3 +29,17 @@
 | 7,4–9,2 s | Selfie, zeigt auf den Text, Hand vor die Linse (Loop zurück zum Anfang) | „Folg mir für Teil 2.“ |
 
 Der Drop des Sounds sollte bei 0:01,8 liegen, also genau beim ersten Schnitt nach dem Schwarzen Loch.
+
+## Serie: Teil 1 und Teil 2 (`teil1.mp4`, `teil2.mp4`)
+
+Je 13,4 s, ohne Ton, Schnitte auf 130 BPM. Gleiches Muster in beiden Teilen:
+
+| Zeit | Teil 1 | Teil 2 |
+|---|---|---|
+| 0–1,8 s | GRAVITAS im Vollbild – „Das ist kein Video.“ | METROPOLIS im Vollbild – „Auch kein Video.“ |
+| 1,8–3,2 s | Zoom raus auf den Laptop – „Das ist eine Website.“ | Zoom raus – „Auch eine Website.“ |
+| 3,2–4,2 s | Selfie, zeigt auf sich – „Gebaut von mir.“ | Selfie-Geste – „Alles selbst gebaut.“ |
+| 4,2–12 s | DRUSE, CUBUS, STRAHL, FERRO, FALZ, SCHWARM, NULLZEIT, Menger-Tunnel, FRAGMENT + Szenen von dir | Laptop auf, Inspiration, Tippen, GUSS, VELUM, Neon-Tunnel, NACHBILD, ARGENT, KAUSTIK, RELIEF + Szenen von dir |
+| 12–13,4 s | Du kommst auf die Kamera zu – „Teil 2 → auf meinem Profil“ | Du kommst auf die Kamera zu – „Welche war die beste? Folg mir für mehr.“ |
+
+Der Drop des Sounds gehört bei beiden auf 0:01,8, also auf den Moment, in dem aus dem Vollbild auf den Laptop gezoomt wird.
