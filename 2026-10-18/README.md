@@ -17,3 +17,15 @@
 ## Caption-Vorschlag
 
 > Jede davon ist eine echte Website. Welche Nummer ist deine? 👇 #webdesign #webdev #creativecoding #threejs #fyp
+
+## Kurzversion (`tiktok_kurz.mp4`)
+
+9,2 s, ohne Ton. Schnitte auf einem 130-BPM-Raster, gedacht für einen Trend-Sound, den du in TikTok drunterlegst.
+
+| Zeit | Inhalt | Text |
+|---|---|---|
+| 0–1,8 s | GRAVITAS (Schwarzes Loch) | „Das ist kein Video.“ |
+| 1,8–7,4 s | 12 Websites, ein Schnitt pro Beat | „Das sind Websites.“ / „Alle selbst gebaut.“ |
+| 7,4–9,2 s | Selfie, zeigt auf den Text, Hand vor die Linse (Loop zurück zum Anfang) | „Folg mir für Teil 2.“ |
+
+Der Drop des Sounds sollte bei 0:01,8 liegen, also genau beim ersten Schnitt nach dem Schwarzen Loch.

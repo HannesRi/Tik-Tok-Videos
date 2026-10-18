@@ -20,26 +20,27 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 POP = r"\fad(80,60)\fscx86\fscy86\t(0,170,0.6,\fscx100\fscy100)\blur8\t(0,170,\blur0)"
 HALO = r"\blur12"
 ev=[]
-def line(t0,t1,style,x,y,text,pop=True,extra=""):
-    anim = POP if pop else r"\fad(0,60)"
-    # two layers: soft dark halo (outline only) below, crisp text above
-    ev.append(f"Dialogue: 0,{ts(t0)},{ts(t1)},{style},,0,0,0,,{{\\an5\\pos({x},{y}){anim}{HALO}\\1a&HFF&{extra}}}{text}")
-    ev.append(f"Dialogue: 1,{ts(t0)},{ts(t1)},{style},,0,0,0,,{{\\an5\\pos({x},{y}){anim}\\bord0{extra}}}{text}")
+if __name__ == "__main__":
+    def line(t0,t1,style,x,y,text,pop=True,extra=""):
+        anim = POP if pop else r"\fad(0,60)"
+        # two layers: soft dark halo (outline only) below, crisp text above
+        ev.append(f"Dialogue: 0,{ts(t0)},{ts(t1)},{style},,0,0,0,,{{\\an5\\pos({x},{y}){anim}{HALO}\\1a&HFF&{extra}}}{text}")
+        ev.append(f"Dialogue: 1,{ts(t0)},{ts(t1)},{style},,0,0,0,,{{\\an5\\pos({x},{y}){anim}\\bord0{extra}}}{text}")
 
-# Hook
-line(0.00,1.50,"Hook",540,340,"Das ist kein Video.",pop=False)
-line(1.50,3.00,"Hook",540,340,"Das ist eine Website.")
-line(3.00,4.35,"Hook",540,1330,"Ich hab sie gebaut.")
-# Process
-line(5.50,6.50,"Hook",540,1380,"Ideen sammeln.")
-line(6.50,8.00,"Hook",540,1380,"Code schreiben.")
-line(8.00,9.00,"Hook",540,1380,"Stunden später …")
-# Montage numbers
-for i in range(12):
-    t0=9.0+i
-    line(t0,t0+1.0,"Num",540,360,f"{i+1:02d}",pop=(i==0) or True)
-# End
-line(21.05,24.50,"Hook",540,1240,"Welche Nummer\\Nist deine?")
-line(21.75,24.50,"Small",540,1435,"Folg mir für Teil 2.")
-open("text.ass","w").write(HEAD+"\n".join(ev)+"\n")
-print(len(ev),"events")
+    # Hook
+    line(0.00,1.50,"Hook",540,340,"Das ist kein Video.",pop=False)
+    line(1.50,3.00,"Hook",540,340,"Das ist eine Website.")
+    line(3.00,4.35,"Hook",540,1330,"Ich hab sie gebaut.")
+    # Process
+    line(5.50,6.50,"Hook",540,1380,"Ideen sammeln.")
+    line(6.50,8.00,"Hook",540,1380,"Code schreiben.")
+    line(8.00,9.00,"Hook",540,1380,"Stunden später …")
+    # Montage numbers
+    for i in range(12):
+        t0=9.0+i
+        line(t0,t0+1.0,"Num",540,360,f"{i+1:02d}",pop=(i==0) or True)
+    # End
+    line(21.05,24.50,"Hook",540,1240,"Welche Nummer\\Nist deine?")
+    line(21.75,24.50,"Small",540,1435,"Folg mir für Teil 2.")
+    open("text.ass","w").write(HEAD+"\n".join(ev)+"\n")
+    print(len(ev),"events")
