@@ -2,8 +2,7 @@ import subprocess, sys
 from concurrent.futures import ThreadPoolExecutor
 from lib_v4 import *
 
-CAM = ("hue=s=0,eq=contrast=1.18:gamma=0.9:brightness=-0.02,"
-       "curves=all='0/0 0.12/0.05 0.5/0.48 0.85/0.88 1/0.98',vignette=angle=PI/3.6")
+CAM = "eq=contrast=1.05:saturation=1.07"
 WIDE = (1.06, 1.10)
 DETAIL = (1.75, 1.85)
 SCY = 0.4734

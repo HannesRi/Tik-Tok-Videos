@@ -1,0 +1,65 @@
+TIKTOK CLIP-PAKET – 18.10.2026
+==============================
+
+Alle Clips sind fertig bearbeitet:
+- Hochformat 1080 x 1920, 30 fps, ohne Ton
+- Websites gerade ausgerichtet, Wand und Mac-Menüleiste schwarz
+- du in normalen Farben
+
+Die Dateinamen sind so nummeriert, dass die Clips in CapCut automatisch in der richtigen Reihenfolge landen:
+  T1_...    = Teil 1
+  T2_...    = Teil 2
+  Extra_... = weitere Websites zum Austauschen
+  Vorschau_Teil1.mp4 / Vorschau_Teil2.mp4 = mein Schnitt als Orientierung (nicht posten)
+
+
+SO BAUST DU EIN VIDEO IN CAPCUT (ca. 10 Minuten)
+------------------------------------------------
+
+1) Clips importieren
+   CapCut öffnen → "Neues Projekt" → alle Clips mit "T1_" auswählen (für Teil 1) → "Hinzufügen".
+   Die Reihenfolge stimmt schon.
+
+2) Trend-Sound hinzufügen
+   Unten auf "Audio" → "Sounds" → nach dem Trend-Sound suchen → "+" drücken.
+   Gut passen Sounds mit hartem Drop (Phonk / Brega / Jersey Club).
+   Tipp: Wenn du CapCut mit deinem TikTok-Account verbindest, siehst du auch die TikTok-Trend-Sounds.
+
+3) Beat-Markierungen setzen
+   Sound antippen → "Beats" → "Auto-Generierung" einschalten.
+   Jetzt erscheinen kleine Punkte auf den Beats in der Zeitleiste.
+
+4) Hook (erster Clip) – der Wow-Moment
+   Den ersten Clip antippen → "Geschwindigkeit" → "Kurve" → Preset "Montage" oder "Bullet".
+   Dadurch läuft das Falten langsam, die Mitte schnell und die Explosion wieder langsam.
+   Schieb den Clip bzw. Sound so, dass der DROP des Songs genau auf die Explosion fällt:
+     T1: die Blätter fliegen los (im Original bei ca. 9,7 s)
+     T2: der Würfel explodiert (im Original bei ca. 7,8 s)
+   Was danach kommt, kürzen.
+
+5) Restliche Clips auf den Beat schneiden
+   Jeden Clip am Ende so kürzen, dass der Schnitt genau auf einem Beat-Punkt liegt.
+   Faustregel: Websites 1–2 Beats, deine Szenen 2 Beats, letzter Clip bis zum Ende.
+   Das Gesamtvideo sollte ca. 12–16 Sekunden lang sein.
+   Clips, die dir nicht gefallen, löschen und durch "Extra_..." ersetzen.
+
+6) Text (wenig ist mehr)
+   "Text" → "Text hinzufügen", schlichte Schrift, weiß, KEINE Effekte, klein bis mittelgroß:
+     Anfang, oben:  "Ich baue Websites wie diese."   (bei Teil 1 darüber klein "TEIL 1")
+     Ende Teil 1:   "Teil 2 auf meinem Profil."
+     Ende Teil 2:   "Welche war die beste?"
+   Text nicht ganz unten platzieren, dort liegen bei TikTok die Caption und die Buttons.
+
+7) Exportieren
+   Oben rechts "Exportieren" → 1080p, 30 fps → direkt zu TikTok teilen.
+
+8) Teil 2 genauso mit den "T2_"-Clips bauen. Am besten denselben Sound nehmen.
+
+
+POSTEN
+------
+- Erst Teil 1 posten, Teil 2 etwa 1 Stunde später.
+- Beide Videos im Profil anpinnen.
+- Caption Teil 1: Das ist eine Website. Teil 2 auf meinem Profil 👀 #webdesign #webdev #creativecoding #fyp
+- Caption Teil 2: Welche war die beste? 👇 #webdesign #webdev #creativecoding #fyp
+- In der ersten Stunde möglichst viele Kommentare beantworten.

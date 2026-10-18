@@ -1,4 +1,11 @@
-# TikTok vom 18.10.2026 – „Das ist kein Video.“
+# TikTok vom 18.10.2026
+
+## Clip-Paket für CapCut (`TikTok_Clips_18-10/`)
+
+Alle Clips einzeln, fertig bearbeitet (1080×1920, 30 fps, ohne Ton), in einem Ordner:
+`T1_…` = Teil 1, `T2_…` = Teil 2 (nach Nummer sortiert = Schnittreihenfolge), `Extra_…` = weitere Websites,
+`Vorschau_Teil1/2.mp4` = Referenzschnitt, `ANLEITUNG.txt` = Schritt-für-Schritt für CapCut mit Trend-Sound.
+
 
 - `tiktok_final.mp4` – fertiges Video mit Musik (24,5 s, 1080×1920, 30 fps)
 - `tiktok_ohne_musik.mp4` – gleiches Video ohne Ton, falls du in TikTok einen Trend-Sound drunterlegen willst
@@ -35,7 +42,7 @@ Der Drop des Sounds sollte bei 0:01,8 liegen, also genau beim ersten Schnitt nac
 - `teil1_mit_sound.mp4`, `teil2_mit_sound.mp4` – fertig mit eigenem Phonk/Brega-Beat (130 BPM, lizenzfrei, selbst erzeugt mit `schnitt/synth_phonk.py`)
 - `teil1_ohne_sound.mp4`, `teil2_ohne_sound.mp4` – gleiches Bild ohne Ton, für einen Trend-Sound aus der TikTok-App
 
-Je 15,2 s. Look: Websites gerade ausgerichtet auf tiefem Schwarz (Wand und Mac-Menüleiste maskiert), Personen-Szenen in Schwarz-Weiß, kleine Typo, harte Schnitte auf den Beat.
+Je 15,2 s. Look: Websites gerade ausgerichtet auf tiefem Schwarz (Wand und Mac-Menüleiste maskiert), Personen-Szenen in natürlichen Farben, kleine Typo, harte Schnitte auf den Beat.
 
 | Zeit | Teil 1 | Teil 2 | Beat |
 |---|---|---|---|
